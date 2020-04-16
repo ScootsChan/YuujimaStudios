@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl" type="text/xsl"?>
+<squad nick="1-2">
+	<name>1st Platoon's Minutemen, the 1-2 Old Bois</name>
+	<email>N/A</email>
+	<web>http://tcgaming.net/</web>
+	<picture>logo.paa</picture>
+	<title>1st Platoon's Minutemen, the 1-2 Old Bois</title>
+	<member id="76561198103354667" nick="CPL D. Nguyen">
+		<name>Daniel 'the fucking weeb' Nguyen</name>
+		<email>daniel@yuujimastudios.com</email>
+		<icq>N/A</icq>
+		<remark>Probably a viet spy</remark>
+	</member>
+	<member id="76561198236006474" nick="SSG D. Tahoe">
+		<name>Papa Tahoe</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>du ma may</remark>
+	</member>
+</squad>

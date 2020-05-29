@@ -2,11 +2,11 @@
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl" type="text/xsl"?>
 <squad nick="1-2">
-	<name>1st Platoon's Minutemen</name>
+	<name>1st Platoon's Cavemen</name>
 	<email>N/A</email>
 	<web>http://tcgaming.net/</web>
 	<picture>logo.paa</picture>
-	<title>1st Platoon's Minutemen</title>
+	<title>1st Platoon's Cavemen</title>
 	<member id="76561198103354667" nick="CPL D. Nguyen">
 		<name>Daniel 'the fucking weeb' Nguyen</name>
 		<email>daniel@yuujimastudios.com</email>

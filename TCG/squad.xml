@@ -73,7 +73,7 @@
 		<icq>N/A</icq>
 		<remark>Nguyen can't think of anything creative to write here</remark>
 	</member>
-	<member id="76561198144716390" nick="PV2 M. Garcia">
+	<member id="76561198144716390" nick="PFC M. Garcia">
 		<name>Garcia</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
@@ -96,5 +96,11 @@
 		<email>N/A</email>
 		<icq>N/A</icq>
 		<remark>1-2's local part-timer</remark>
+	</member>
+	<member id="76561198023401925" nick="SPC M. Burbella">
+		<name>burb my son</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>Beanbella</remark>
 	</member>
 </squad>

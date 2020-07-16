@@ -23,13 +23,13 @@
 		<name>Papa Tahoe</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
-		<remark>du ma may</remark>
+		<remark>Not even techinically part of 1-2 anymore</remark>
 	</member>
 	<member id="76561198084416017" nick="SGT M. Rancor">
 		<name>Pateesa</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
-		<remark>Some random angery monster on Tatooine</remark>
+		<remark>The only competent 1-2 squadlead in recent memory</remark>
 	</member>
 	<member id="76561198104844499" nick="SPC D. Ramirez">
 		<name>Ramirez!</name>
@@ -102,5 +102,11 @@
 		<email>N/A</email>
 		<icq>N/A</icq>
 		<remark>Beanbella</remark>
+	</member>
+	<member id="76561198135655503" nick="PVT R. Carrigan">
+		<name>Patrick Ryan Kerrigan</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>Nguyen can't think of anything creative to write here</remark>
 	</member>
 </squad>

@@ -49,12 +49,6 @@
 		<icq>N/A</icq>
 		<remark>Ignore the screaming child it's probably okay</remark>
 	</member>
-	<member id="76561198129074336" nick="PFC K. Kaichi">
-		<name>Kaichi Uchida</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>Naruto is a shit anime</remark>
-	</member>
 	<member id="76561198263728629" nick="PFC J. Roberts">
 		<name>Roberto</name>
 		<email>N/A</email>
@@ -73,7 +67,7 @@
 		<icq>N/A</icq>
 		<remark>Nguyen can't think of anything creative to write here</remark>
 	</member>
-	<member id="76561198144716390" nick="PFC M. Garcia">
+	<member id="76561198144716390" nick="SPC M. Garcia">
 		<name>Garcia</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
@@ -103,10 +97,16 @@
 		<icq>N/A</icq>
 		<remark>Beanbella</remark>
 	</member>
-	<member id="76561198135655503" nick="PVT R. Carrigan">
+	<member id="76561198135655503" nick="PV2 R. Carrigan">
 		<name>Patrick Ryan Kerrigan</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
 		<remark>Nguyen can't think of anything creative to write here</remark>
+	</member>
+	<member id="76561198417781889" nick="SPC T. Francis">
+		<name>Francisco</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>The previous, probably more competent medic of 1-2</remark>
 	</member>
 </squad>

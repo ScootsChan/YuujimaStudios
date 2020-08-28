@@ -7,6 +7,84 @@
 	<web>http://tcgaming.net/</web>
 	<picture>cave.paa</picture>
 	<title>1st Platoon's Cavemen</title>
+	<member id="76561198084416017" nick="SGT M. Rancor">
+		<name>Pateesa</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>The only competent 1-2 squadlead in recent memory</remark>
+	</member>
+	<member id="76561198321216355" nick="PFC D. Conner">
+		<name>Conner, with an e not an o</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>Nguyen can't think of anything creative to write here</remark>
+	</member>
+	<member id="76561198079432659" nick="CPL S. Freckle">
+		<name>Mr Miyagi</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>N/A</remark>
+	</member>
+	<member id="76561198152329605" nick="CPL J. Carter">
+		<name>Cartman</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>1-2's Real Papa</remark>
+	</member>
+	<member id="76561198093151248" nick="SPC J. Sceris">
+		<name>A Literal Trap</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>Probably sucks off Astolfo</remark>
+	</member>
+	<member id="76561198144716390" nick="SPC M. Garcia">
+		<name>Garcia</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>Nguyen has bad memories with other M. Garcias.</remark>
+	</member>
+	<member id="76561198809672634" nick="PFC A. Wick">
+		<name>Johan Wick</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>He's actually the son of John Wick.</remark>
+	</member>
+	<member id="76561198417781889" nick="SPC T. Francis">
+		<name>Francisco</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>The previous, probably more competent medic of 1-2</remark>
+	</member>
+	<member id="76561198879588479" nick="PFC C. Ciomber">
+		<name>Cucumber</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>still hasn't told Rancor his helmet</remark>
+	</member>
+	<member id="76561198135655503" nick="PFC R. Carrigan">
+		<name>Patrick Ryan Kerrigan</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>Probably the most competent of Alpha</remark>
+	</member>
+	<member id="76561198159442559" nick="PV2 J. Thompson">
+		<name>Mister T</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>N/A</remark>
+	</member>
+	<member id="76561198839972261" nick="PV2 T. Chudy">
+		<name>N/A</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>N/A</remark>
+	</member>
+	<member id="76561198135655503" nick="PVT C. Hargis">
+		<name>N/A</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>N/A</remark>
+	</member>
 	<member id="76561198103354667" nick="CPL D. Nguyen">
 		<name>Daniel 'the fucking weeb' Nguyen</name>
 		<email>daniel@yuujimastudios.com</email>
@@ -23,19 +101,7 @@
 		<name>Papa Tahoe</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
-		<remark>du ma may</remark>
-	</member>
-	<member id="76561198084416017" nick="CPL M. Rancor">
-		<name>Pateesa</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>Some random angery monster on Tatooine</remark>
-	</member>
-	<member id="76561198104844499" nick="SPC D. Ramirez">
-		<name>Ramirez!</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>Boutta hit up that vic 1k out</remark>
+		<remark>Not even techinically part of 1-2 anymore</remark>
 	</member>
 	<member id="76561198077806824" nick="PFC G. Burger">
 		<name>Pulled Pork Burger</name>
@@ -49,52 +115,16 @@
 		<icq>N/A</icq>
 		<remark>Ignore the screaming child it's probably okay</remark>
 	</member>
-	<member id="76561198129074336" nick="PFC K. Kaichi">
-		<name>Kaichi Uchida</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>Naruto is a shit anime</remark>
-	</member>
 	<member id="76561198263728629" nick="PFC J. Roberts">
 		<name>Roberto</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
 		<remark>Nguyen can't think of anything creative to write here</remark>
 	</member>
-	<member id="76561198093151248" nick="SPC J. Sceris">
-		<name>A Literal Trap</name>
+	<member id="76561198023401925" nick="SPC M. Burbella">
+		<name>burb my son</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
-		<remark>Probably sucks off Astolfo</remark>
-	</member>
-	<member id="76561198152329605" nick="PFC J. Carter">
-		<name>Cartman</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>Nguyen can't think of anything creative to write here</remark>
-	</member>
-	<member id="76561198144716390" nick="PV2 M. Garcia">
-		<name>Garcia</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>Nguyen has bad memories with other M. Garcias.</remark>
-	</member>
-	<member id="76561198809672634" nick="PV2 A. Wick">
-		<name>Johan Wick</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>He's actually the son of John Wick.</remark>
-	</member>
-	<member id="76561198321216355" nick="PV2 D. Conner">
-		<name>Conner, with an e not an o</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>Nguyen can't think of anything creative to write here</remark>
-	</member>
-	<member id="76561198048421214" nick="PV2 A. Anderson">
-		<name>Mr. Anderson</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>1-2's local part-timer</remark>
+		<remark>Beanbella</remark>
 	</member>
 </squad>

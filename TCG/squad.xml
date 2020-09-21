@@ -2,11 +2,11 @@
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl" type="text/xsl"?>
 <squad nick="1-2">
-	<name>1st Platoon's Cavemen</name>
+	<name>1st Platoon's Minutemen</name>
 	<email>N/A</email>
 	<web>http://tcgaming.net/</web>
-	<picture>cave.paa</picture>
-	<title>1st Platoon's Cavemen</title>
+	<picture>logo.paa</picture>
+	<title>1st Platoon's Minutemen</title>
 	<member id="76561198084416017" nick="SGT M. Rancor">
 		<name>Pateesa</name>
 		<email>N/A</email>

@@ -13,12 +13,6 @@
 		<icq>N/A</icq>
 		<remark>The only competent 1-2 squadlead in recent memory</remark>
 	</member>
-	<member id="76561198321216355" nick="PFC D. Conner">
-		<name>Conner, with an e not an o</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>Nguyen can't think of anything creative to write here</remark>
-	</member>
 	<member id="76561198079432659" nick="CPL S. Freckle">
 		<name>Mr Miyagi</name>
 		<email>N/A</email>
@@ -31,7 +25,7 @@
 		<icq>N/A</icq>
 		<remark>1-2's Real Papa</remark>
 	</member>
-	<member id="76561198093151248" nick="SPC J. Sceris">
+	<member id="76561198093151248" nick="CPL J. Sceris">
 		<name>A Literal Trap</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
@@ -43,7 +37,7 @@
 		<icq>N/A</icq>
 		<remark>Nguyen has bad memories with other M. Garcias.</remark>
 	</member>
-	<member id="76561198809672634" nick="PFC A. Wick">
+	<member id="76561198809672634" nick="SPC A. Wick">
 		<name>Johan Wick</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
@@ -55,17 +49,17 @@
 		<icq>N/A</icq>
 		<remark>The previous, probably more competent medic of 1-2</remark>
 	</member>
-	<member id="76561198879588479" nick="PFC C. Ciomber">
-		<name>Cucumber</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>still hasn't told Rancor his helmet</remark>
-	</member>
 	<member id="76561198135655503" nick="PFC R. Carrigan">
 		<name>Patrick Ryan Kerrigan</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
 		<remark>Probably the most competent of Alpha</remark>
+	</member>
+	<member id="76561198128860909" nick="PV2 C. Peak">
+		<name>^</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>funhaus reference</remark>
 	</member>
 	<member id="76561198159442559" nick="PV2 J. Thompson">
 		<name>Mister T</name>
@@ -114,12 +108,6 @@
 		<email>N/A</email>
 		<icq>N/A</icq>
 		<remark>Ignore the screaming child it's probably okay</remark>
-	</member>
-	<member id="76561198263728629" nick="PFC J. Roberts">
-		<name>Roberto</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>Nguyen can't think of anything creative to write here</remark>
 	</member>
 	<member id="76561198023401925" nick="SPC M. Burbella">
 		<name>burb my son</name>

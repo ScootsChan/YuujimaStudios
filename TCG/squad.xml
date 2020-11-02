@@ -7,17 +7,11 @@
 	<web>http://tcgaming.net/</web>
 	<picture>logo.paa</picture>
 	<title>1st Platoon's Minutemen</title>
-	<member id="76561198084416017" nick="SGT M. Rancor">
+	<member id="76561198084416017" nick="SSG M. Rancor">
 		<name>Pateesa</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
 		<remark>The only competent 1-2 squadlead in recent memory</remark>
-	</member>
-	<member id="76561198079432659" nick="CPL S. Freckle">
-		<name>Mr Miyagi</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>N/A</remark>
 	</member>
 	<member id="76561198152329605" nick="CPL J. Carter">
 		<name>Cartman</name>
@@ -37,6 +31,24 @@
 		<icq>N/A</icq>
 		<remark>Nguyen has bad memories with other M. Garcias.</remark>
 	</member>
+	<member id="76561198135655503" nick="SPC R. Carrigan">
+		<name>Patrick Ryan Kerrigan</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>Probably the most competent of Alpha</remark>
+	</member>
+	<member id="76561198839972251" nick="PFC T. Chudy">
+		<name>Chuby</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>N/A</remark>
+	</member>
+	<member id="76561198128860909" nick="PV2 C. Peak">
+		<name>^</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>funhaus reference</remark>
+	</member>
 	<member id="76561198809672634" nick="SPC A. Wick">
 		<name>Johan Wick</name>
 		<email>N/A</email>
@@ -49,29 +61,11 @@
 		<icq>N/A</icq>
 		<remark>The previous, probably more competent medic of 1-2</remark>
 	</member>
-	<member id="76561198135655503" nick="SPC R. Carrigan">
-		<name>Patrick Ryan Kerrigan</name>
+	<member id="76561198170160430" nick="PV2 B. Lopez">
+		<name>Bartholomew</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
-		<remark>Probably the most competent of Alpha</remark>
-	</member>
-	<member id="76561198128860909" nick="PV2 C. Peak">
-		<name>^</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>funhaus reference</remark>
-	</member>
-	<member id="76561198159442559" nick="PV2 J. Thompson">
-		<name>Mister T</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>N/A</remark>
-	</member>
-	<member id="76561198839972261" nick="PFC T. Chudy">
-		<name>Chuby</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>N/A</remark>
+		<remark>brother of Garcia</remark>
 	</member>
 	<member id="76561198135655503" nick="PV2 C. Hargis">
 		<name>N/A</name>
@@ -79,11 +73,23 @@
 		<icq>N/A</icq>
 		<remark>N/A</remark>
 	</member>
-	<member id="76561198170160430" nick="PV2 B. Lopez">
-		<name>Bartholomew</name>
+	<member id="76561198150458443" nick="PV2 S. Higashi">
+		<name>N/A</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
-		<remark>brother of Garcia</remark>
+		<remark>N/A</remark>
+	</member>
+	<member id="76561198135655503" nick="PVT A. Caliban">
+		<name>N/A</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>N/A</remark>
+	</member>
+	<member id="76561198070185475" nick="PVT T. Hamm">
+		<name>N/A</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>N/A</remark>
 	</member>
 	<member id="76561198103354667" nick="SGT D. Nguyen">
 		<name>You having trouble saying Nguyen?</name>

@@ -3,9 +3,6 @@
 Primary style
 
 -------------------------------- */
-*, *::after, *::before {
-  box-sizing: border-box;
-}
 
 html {
   font-size: 62.5%;
@@ -13,14 +10,9 @@ html {
 }
 
 body {
-  font-size: 1.6rem;
+  font-size: 12pt;
   color: #1c1d1f;
   background-color: #bad3fc;
-}
-
-a {
-  color: #1c1d1f;
-  text-decoration: none;
 }
 
 /* --------------------------------
@@ -760,28 +752,4 @@ li.selected .cd-project-title,
   .cd-primary-nav a {
     font-size: 4rem;
   }
-}
-
-/* --------------------------------
-
-JavaScript Disabled
-
--------------------------------- */
-.no-js .cd-primary-nav {
-  display: block;
-  position: static;
-  opacity: 1;
-  margin-bottom: 1.5em;
-}
-.no-js .cd-primary-nav ul {
-  display: block;
-  padding: 0 5%;
-}
-.no-js .cd-primary-nav ul::after {
-  clear: both;
-  content: "";
-  display: table;
-}
-.no-js .cd-primary-nav li:not(.cd-label) {
-  display: inline-block;
 }

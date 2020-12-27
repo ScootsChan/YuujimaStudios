@@ -7,23 +7,11 @@
 	<web>http://tcgaming.net/</web>
 	<picture>logo.paa</picture>
 	<title>3rd Platoon's Mano Nera</title>
-	<member id="76561198084416017" nick="SSG M. Rancor">
-		<name>Pateesa</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>The only competent 1-2 squadlead in recent memory</remark>
-	</member>
-	<member id="76561198152329605" nick="CPL J. Carter">
-		<name>Cartman</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>1-2's Real Papa</remark>
-	</member>
 	<member id="76561198093151248" nick="CPL J. Sceris">
-		<name>A Literal Trap</name>
+		<name>Bishop</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
-		<remark>Probably sucks off Astolfo</remark>
+		<remark>A literal trap, the Don of the 3-1 crime family</remark>
 	</member>
 	<member id="76561198144716390" nick="CPL M. Garcia">
 		<name>Garcia</name>
@@ -37,31 +25,31 @@
 		<icq>N/A</icq>
 		<remark>Probably the most competent of Alpha</remark>
 	</member>
-	<member id="76561198839972251" nick="PFC T. Chudy">
+	<member id="76561198839972251" nick="SPC T. Chudy">
 		<name>Chuby</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
 		<remark>N/A</remark>
 	</member>
 	<member id="76561198128860909" nick="PV2 C. Peak">
-		<name>^</name>
+		<name>The Weasel</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
 		<remark>funhaus reference</remark>
 	</member>
 	<member id="76561198809672634" nick="SPC A. Wick">
-		<name>Johan Wick</name>
+		<name>Biggie</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
 		<remark>He's actually the son of John Wick.</remark>
 	</member>
-	<member id="76561198417781889" nick="SPC T. Francis">
+	<member id="76561198417781889" nick="CPL T. Francis">
 		<name>Francisco</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
 		<remark>The previous, probably more competent medic of 1-2</remark>
 	</member>
-	<member id="76561198170160430" nick="PV2 B. Lopez">
+	<member id="76561198170160430" nick="PFC B. Lopez">
 		<name>Bartholomew</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
@@ -73,52 +61,16 @@
 		<icq>N/A</icq>
 		<remark>N/A</remark>
 	</member>
-	<member id="76561198150458443" nick="PFC S. Higashi">
-		<name>N/A</name>
+	<member id="76561198150458443" nick="SPC S. Higashi">
+		<name>The Weeb</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
-		<remark>N/A</remark>
+		<remark>Lee Enfield is bad >:c</remark>
 	</member>
-	<member id="76561198135655503" nick="PVT A. Caliban">
-		<name>N/A</name>
+		<member id="25153412554325" nick="PVT J. Davies">
+		<name>The Dingo</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
-		<remark>N/A</remark>
-	</member>
-	<member id="76561198070185475" nick="PVT T. Hamm">
-		<name>N/A</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>N/A</remark>
-	</member>
-	<member id="76561198103354667" nick="SGT D. Nguyen">
-		<name>You having trouble saying Nguyen?</name>
-		<email>daniel@yuujimastudios.com</email>
-		<icq>N/A</icq>
-		<remark>Win, don't Noogin.</remark>
-	</member>
-	<member id="76561198236006474" nick="SFC D. Tahoe">
-		<name>Papa Tahoe</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>Not even techinically part of 1-2 anymore</remark>
-	</member>
-	<member id="76561198077806824" nick="PFC G. Burger">
-		<name>Pulled Pork Burger</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>One from Hamburg</remark>
-	</member>
-	<member id="76561198053152736" nick="PFC M. Oce">
-		<name>:OhISee:</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>Ignore the screaming child it's probably okay</remark>
-	</member>
-	<member id="76561198023401925" nick="SPC M. Burbella">
-		<name>burb my son</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>Beanbella</remark>
+		<remark>Aussie</remark>
 	</member>
 </squad>

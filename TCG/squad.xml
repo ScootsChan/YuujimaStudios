@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl" type="text/xsl"?>
-<squad nick="3-1">
-	<name>3rd Platoon's Black Hand</name>
+<squad nick="2-1">
+	<name>2nd Platoon's Black Hand</name>
 	<email>N/A</email>
 	<web>http://tcgaming.net/</web>
 	<picture>logo.paa</picture>
-	<title>3rd Platoon's Mano Nera</title>
+	<title>2nd Platoon's Mano Nera</title>
 	<member id="76561198093151248" nick="CPL J. Sceris">
 		<name>Bishop</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
-		<remark>A literal trap, the Don of the 3-1 crime family</remark>
+		<remark>A literal trap, the Don of the 2-1 crime family</remark>
 	</member>
 	<member id="76561198144716390" nick="CPL M. Garcia">
 		<name>Garcia</name>

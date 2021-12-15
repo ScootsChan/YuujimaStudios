@@ -1,0 +1,35 @@
+body{
+	font-family: "Verdana", "Helvetica", sans-serif;
+	background-color: #D0104C;
+	color: #FFFFFF;
+
+	text-align: center;
+	overflow-x: hidden;
+}
+
+#main{
+	position: absolute;
+	padding-top: 5%;
+	width: 30%;
+	padding-left: 35%;
+}
+
+#title{
+	font-size: 20pt;
+	font-weight: 550;
+	top: 22%;
+	right: 12.5%;
+}
+
+#text{
+	top: 28%;
+	font-size: 8pt;
+	line-height: 175%;
+}
+
+#icons{
+	position: relative;
+	width: 175%;
+	right: 32.5%;
+	padding-top: 70%;
+}

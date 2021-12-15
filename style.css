@@ -1,0 +1,58 @@
+body{
+	font-family: "Verdana", "Helvetica", sans-serif;
+	background-color: #D0104C;
+	color: #FFFFFF;
+
+	text-align: center;
+	overflow-x: hidden;
+}
+
+#main{
+	padding-top: 12.5%;
+	padding-left: 21%;
+	width: 25%;
+}
+
+#title{
+	position: absolute;
+	top: 30%;
+	right: 37.5%;
+	font-size: 24pt;
+	font-style: italic;
+	font-weight: 550;
+}
+
+#text{
+	position: absolute;
+	top: 34%;
+	right: 29%;
+	text-align: left;
+	line-height: 175%;
+}
+
+#icons{
+	position: absolute;
+	top: 45%;
+	right: 18%;
+}
+
+/*---------- ANIMATIONS BELOW, GO DOWN AT YOUR OWN RISK -------*/
+#main img:hover{
+	transform: rotate(360deg);
+	cursor: pointer;
+	transition: 2s;
+}
+#main img{
+	transition: 2s;
+}
+@keyframes floaty{
+	0% {top:0px;}
+	50% {top:300px;}
+	100% {top:0px;}
+}
+#about img{
+	width: 30%;
+	float: left;
+	margin-left: 15%;
+	animation: floaty 5s infinite;
+}
